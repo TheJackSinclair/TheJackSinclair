@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TheJackSinclair
+- 👀 I’m interested in Web Applications expecially ones which are React Based
